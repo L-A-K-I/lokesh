@@ -1,0 +1,8 @@
+step 1.
+xampp software has to be installed in your pc/laptop
+step 2.
+paste all the files inside xampp  in htdocs folder(delete all the files in htdocs before moving the in htdocs
+step 3.
+open xampp software start Apache and MySQL
+step 4.
+open web browser in the url type http://localhost/index.php
